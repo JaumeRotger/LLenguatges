@@ -1,1 +1,2 @@
-Hola, Ramis!
+<%@ page language='java' %>
+<%="Hola, Menorca" %>

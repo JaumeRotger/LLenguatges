@@ -1,1 +1,2 @@
-Hola, Ramis!
+#!/bin/perl
+print "Hola, Menorca\n";

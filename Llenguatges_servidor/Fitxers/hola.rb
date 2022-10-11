@@ -1,1 +1,2 @@
-Hola, Ramis!
+% ruby
+print "Hola, Menorca"
